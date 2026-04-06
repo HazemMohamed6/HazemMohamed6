@@ -30,7 +30,7 @@
 </p>
 
 ---
-
+ 
 ## 📌 Projects
 - 🔹 Spring Boot Mini Project (Dependency Injection)
 - 🔹 More projects coming soon...
