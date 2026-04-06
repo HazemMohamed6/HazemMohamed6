@@ -10,13 +10,14 @@
 
 ---
 
-## 🛠️ Tech Stack
-- 💻 Java (OOP, SOLID)
-- 🌱 Spring Boot
-- 🗄️ SQL Server
-- 🌐 HTML, CSS, JavaScript (Basics)
-
----
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
@@ -24,20 +25,16 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HazemMohamed6&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazeMohamed6&layout=compact&theme=tokyonight"/>
-</p>
-
-
----
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: [linkedin.com/in/hazem-mohamed-1bba8b226](https://www.linkedin.com/in/hazem-mohamed-1bba8b226/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMwB6uoyXQ%2BGK6qn%2BTpka4g%3D%3D)
-- 📧 Email: hazemmohameddeshesha@gmail.com
+ 
+  <p align="center">
+  <a href="[linkedin.com/in/hazem-mohamed-1bba8b226](https://www.linkedin.com/in/hazem-mohamed-1bba8b226/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMwB6uoyXQ%2BGK6qn%2BTpka4g%3D%3D)">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:hazemmohameddeshesha@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="30"/>
+  </a>
+</p>
 
