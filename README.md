@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hazem Mohammed</h1>
 
-<!--
-**HazemMohamed6/HazemMohamed6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Java Developer | Spring Boot Learner  
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Spring+Boot+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+- 🎓 Law student with passion for tech
+- 💻 Focused on Backend Development
+- 🌱 Currently learning **Spring Boot & SQL Server**
+- 🎯 Goal: Join ITI & become professional backend developer
+
+---
+
+## 🛠️ Tech Stack
+- 💻 Java (OOP, SOLID)
+- 🌱 Spring Boot
+- 🗄️ SQL Server
+- 🌐 HTML, CSS, JavaScript (Basics)
+
+---
+
+## 🐾 Cute Zone (just for fun 😄)
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HazemMohamed6&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+## 📌 Projects
+- 🔹 Spring Boot Mini Project (Dependency Injection)
+- 🔹 More projects coming soon...
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: linkedin.com/in/hazem-mohamed-1bba8b226
+- 📧 Email: hazemmohameddeshesha@gmail.com
+
+---
+
+<p align="center">
+  🔥 "Consistency beats motivation"
+</p>
