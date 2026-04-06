@@ -38,7 +38,7 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: linkedin.com/in/hazem-mohamed-1bba8b226
+- 💼 LinkedIn: [linkedin.com/in/hazem-mohamed-1bba8b226](https://www.linkedin.com/in/hazem-mohamed-1bba8b226/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMwB6uoyXQ%2BGK6qn%2BTpka4g%3D%3D)
 - 📧 Email: hazemmohameddeshesha@gmail.com
 
 ---
