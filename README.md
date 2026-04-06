@@ -10,14 +10,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 Law student with passion for tech
-- 💻 Focused on Backend Development
-- 🌱 Currently learning **Spring Boot & SQL Server**
-- 🎯 Goal: Join ITI & become professional backend developer
-
----
-
 ## 🛠️ Tech Stack
 - 💻 Java (OOP, SOLID)
 - 🌱 Spring Boot
@@ -26,7 +18,6 @@
 
 ---
 
-## 🐾 Cute Zone (just for fun 😄)
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
 </p>
