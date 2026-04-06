@@ -27,7 +27,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HazeMohamed6&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=HazemMohamed6&theme=tokyonight"/>
 </p>
 
 <p align="center">
