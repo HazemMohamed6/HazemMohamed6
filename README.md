@@ -8,8 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Spring+Boot+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
----
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50"/>
