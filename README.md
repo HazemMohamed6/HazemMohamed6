@@ -29,12 +29,30 @@
 ## 📫 Connect With Me
  
   <p align="center">
-  <a href="[linkedin.com/in/hazem-mohamed-1bba8b226](https://www.linkedin.com/in/hazem-mohamed-1bba8b226/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMwB6uoyXQ%2BGK6qn%2BTpka4g%3D%3D)">
+  <a href="https://www.linkedin.com/in/hazem-mohamed-1bba8b226/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMwB6uoyXQ%2BGK6qn%2BTpka4g%3D%3D">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="30"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:hazemmohameddeshesha@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="30"/>
+  </a>
+</p>
+
+
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/hazem-mohamed-1bba8b226/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMwB6uoyXQ%2BGK6qn%2BTpka4g%3D%3D)" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="mailto:hazemmohameddeshesha@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="https://github.com/HazemMohamed6" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
