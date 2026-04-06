@@ -25,8 +25,9 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HazemMohamed6&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazeMohamed6&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
